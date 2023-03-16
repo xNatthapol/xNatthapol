@@ -13,9 +13,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/xNatthapol/xNatthapol/blob/output/snake.svg" alt="Snake animation" />
-
-###
